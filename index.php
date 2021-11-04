@@ -19,7 +19,7 @@
         <p>Phone number: 0557395593</p>
     </h2></td>
     <td align="right">
-    <p><img src="image/123.jpg" width="300" alt=""></p>
+    <p><img src="123.jpg" width="300" alt=""></p>
 </td>
 </tr>
 </table>
