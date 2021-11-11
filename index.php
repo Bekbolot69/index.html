@@ -77,7 +77,7 @@ span.psw {
 <body>
 
 
-<form action="index1.html" method="post">
+<form action="index.php" method="post">
   <div class="imgcontainer">
     <img src="image/123.jpg" alt="Avatar" class="avatar">
   </div>
