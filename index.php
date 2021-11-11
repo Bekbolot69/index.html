@@ -77,7 +77,7 @@ span.psw {
 <body>
 
 
-<form action="https://belbolot.herokuapp.com/" method="post">
+<form action="index1.html" method="post">
   <div class="imgcontainer">
     <img src="image/123.jpg" alt="Avatar" class="avatar">
   </div>
